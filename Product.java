@@ -1,4 +1,4 @@
-package com.ashish.shoppingcart.entity;
+package com.shivam.shoppingcart.entity;
 
 
 import javax.persistence.Entity;
